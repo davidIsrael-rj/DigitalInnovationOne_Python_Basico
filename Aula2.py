@@ -1,5 +1,6 @@
 #a = 10
 #b = 5
+#entrando com valor do usuario e convertendo para inteiro
 a= int(input('Entre com o primeiro valor:'))
 b=input('entre com o segundo valor:')
 #a=int(a)
