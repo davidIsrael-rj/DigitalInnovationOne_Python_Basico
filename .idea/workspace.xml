@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5f6d2a-075f-4fb6-b82e-d06e0c944e1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula11_personalizando_excecao.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Aula11_personalizando_excecao">
+  <component name="RunManager" selected="Python.Aula12">
     <configuration name="Aula10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basico" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Aula8_contador_letras" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Aula12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basico" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +122,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula8_contador_letras.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula12" />
         <item itemvalue="Python.Aula11_personalizando_excecao" />
         <item itemvalue="Python.Aula11" />
         <item itemvalue="Python.Aula10" />
         <item itemvalue="Python.Aula9" />
-        <item itemvalue="Python.Aula8_contador_letras" />
       </list>
     </recent_temporary>
   </component>
@@ -188,21 +187,21 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="604" height="176" key="GridCell.Tab.0.bottom" timestamp="1588865065672">
+    <state width="604" height="176" key="GridCell.Tab.0.bottom" timestamp="1588881883493">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="604" height="176" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1588865065672" />
-    <state width="604" height="176" key="GridCell.Tab.0.center" timestamp="1588865065670">
+    <state width="604" height="176" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1588881883493" />
+    <state width="604" height="176" key="GridCell.Tab.0.center" timestamp="1588881883492">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="604" height="176" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1588865065670" />
-    <state width="604" height="176" key="GridCell.Tab.0.left" timestamp="1588865065669">
+    <state width="604" height="176" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1588881883492" />
+    <state width="604" height="176" key="GridCell.Tab.0.left" timestamp="1588881883490">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="604" height="176" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1588865065669" />
-    <state width="604" height="176" key="GridCell.Tab.0.right" timestamp="1588865065671">
+    <state width="604" height="176" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1588881883490" />
+    <state width="604" height="176" key="GridCell.Tab.0.right" timestamp="1588881883493">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="604" height="176" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1588865065671" />
+    <state width="604" height="176" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1588881883493" />
   </component>
 </project>
