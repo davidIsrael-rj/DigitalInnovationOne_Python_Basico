@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5f6d2a-075f-4fb6-b82e-d06e0c944e1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Aula11_personalizando_excecao.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Aula10">
+  <component name="RunManager" selected="Python.Aula11_personalizando_excecao">
     <configuration name="Aula10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basico" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,6 +69,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Aula11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Basico" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aula11_personalizando_excecao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Basico" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula11_personalizando_excecao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Aula8_contador_letras" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basico" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,48 +124,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula8_contador_letras.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Aula8_importacao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Basico" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula8_importacao.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Aula8_lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Basico" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula8_lambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula11_personalizando_excecao" />
+        <item itemvalue="Python.Aula11" />
         <item itemvalue="Python.Aula10" />
         <item itemvalue="Python.Aula9" />
         <item itemvalue="Python.Aula8_contador_letras" />
-        <item itemvalue="Python.Aula8_importacao" />
-        <item itemvalue="Python.Aula8_lambda" />
       </list>
     </recent_temporary>
   </component>
@@ -157,22 +176,33 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="604" height="176" key="GridCell.Tab.0.bottom" timestamp="1588858269046">
+    <state width="604" height="176" key="GridCell.Tab.0.bottom" timestamp="1588865065672">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="604" height="176" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1588858269046" />
-    <state width="604" height="176" key="GridCell.Tab.0.center" timestamp="1588858269044">
+    <state width="604" height="176" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1588865065672" />
+    <state width="604" height="176" key="GridCell.Tab.0.center" timestamp="1588865065670">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="604" height="176" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1588858269044" />
-    <state width="604" height="176" key="GridCell.Tab.0.left" timestamp="1588858269042">
+    <state width="604" height="176" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1588865065670" />
+    <state width="604" height="176" key="GridCell.Tab.0.left" timestamp="1588865065669">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="604" height="176" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1588858269042" />
-    <state width="604" height="176" key="GridCell.Tab.0.right" timestamp="1588858269045">
+    <state width="604" height="176" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1588865065669" />
+    <state width="604" height="176" key="GridCell.Tab.0.right" timestamp="1588865065671">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="604" height="176" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1588858269045" />
+    <state width="604" height="176" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1588865065671" />
   </component>
 </project>
